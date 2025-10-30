@@ -1,2 +1,4 @@
 # Training_MLP_and_CNN
-final exercise from a university class (2021): training a MLP and a CNN
+Jupyter Notebook: Final exercise from a university class (2021) on image processing and computer vision. Training a multilayer perceptron and a convolutional neural network for image classification on the CIFAR10 dataset.
+
+The Jupyter Notebook includes some visualizations (matplotlib) and explanatory comments.
